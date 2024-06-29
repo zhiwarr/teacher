@@ -1,0 +1,5 @@
+@import "./base.css";
+@font-face {
+  font-family: speeda;
+  src: url("../../public/fonts/Speda-Bold.woff");
+}
